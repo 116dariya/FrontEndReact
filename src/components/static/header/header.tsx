@@ -7,7 +7,9 @@ export default class Header extends React.Component {
         return (
             <div>
                 <nav className="scrolled">
-                    <div className="logo"/>
+                    <a href="/">
+                        <div className="logo"/>
+                    </a>
                     <ul>
                         <li><a href="/login">Login</a></li>
                         <li><a href="/register">Registration</a></li>
