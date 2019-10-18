@@ -15,9 +15,9 @@ class App extends React.Component {
             <Header/>
             <Router>
                 <Switch>
-                    <Route path="/" component={MainPage}/>
                     <Route path="/login" component={Login} />
                     <Route path="/register" component={Registration} />
+                    <Route path="/" component={MainPage}/>
                 </Switch>
             </Router>
             <Footer/>
