@@ -1,0 +1,25 @@
+Frontend architecture & initialization (10)
+---app running without errors & warnings (2 p)
+at least 2 example of function component (2 p)
+---at least 2 example of class component (2 p)
+at least 2 diff. example of using lifecycle func (2 p)
+at least 3 diff. React hooks (2 p)
+
+Routing & markup (6 screens) (10)
+---Routing conf. (2 p)
+Main page (markup) (2 p)
+---Login page or Register page (markup) (2 p)
+List page (markup) (1 p)
+Detail page (markup) (1 p)
+2 screens (markup) (2 p)
+	
+Redux (10)
+Store at least 2 middlewares (3 p)
+Reducers (6 file example) (2 p)
+Actions/Dispatchers (6 file example) (2 p)
+---3 questions to each team member (3p)
+---using typescript (3p)
+
+Сделать футер и хэдер функ компонентами 
+Сделать компоненту Артикл
+Сделать компоненту Категории
