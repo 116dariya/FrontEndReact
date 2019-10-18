@@ -6,7 +6,7 @@ import Login from "./components/authorize/login/login";
 import Footer from "./components/static/footer/footer";
 import Registration from "./components/authorize/registration/Registration";
 import {MainPage} from "./components/Main/MainPage/MainPage";
-
+import NotFound from "./components/static/notFound/notFound";
 
 class App extends React.Component {
   public render() {
@@ -18,6 +18,7 @@ class App extends React.Component {
                     <Route path="/login" component={Login} />
                     <Route path="/register" component={Registration} />
                     <Route path="/" component={MainPage}/>
+                    <Route path="notFound" component={NotFound} />
                 </Switch>
             </Router>
             <Footer/>
