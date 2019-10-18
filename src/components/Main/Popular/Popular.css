@@ -1,0 +1,19 @@
+.popular-items{
+    display: flex;
+    justify-content: space-evenly;
+    vertical-align: baseline;
+    position: relative;
+    font: inherit;
+    font-size: 100%;
+    width: 1280px;
+    height: 443px;
+    margin-top: 20px;
+}
+
+.Popular-items-detail {
+    margin-left: 10px;
+    font: inherit;
+    display: inline-block;
+    justify-content: space-evenly;
+    font-family: Savoy,Georgia,serif;
+}

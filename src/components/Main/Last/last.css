@@ -1,0 +1,84 @@
+.last-items-detail {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.intro-banner--title {
+    margin-bottom: 4px;
+    font-size: 64px;
+}
+.intro-banner--title {
+    margin-bottom: 4px;
+    font-size: 60px;
+}
+.intro-banner--title {
+    margin-bottom: 2px;
+    line-height: normal;
+    color: #333;
+    font-family: Savoy,Georgia,serif;
+    font-weight: 400;
+    font-style: italic;
+}
+*, :after, :before {
+    box-sizing: border-box;
+}
+.intro-banner {
+    position: relative;
+    margin: 40px 0;
+    text-align: center;
+}
+.intro-banner--title:after, .intro-banner--title:before {
+    width: 75px;
+}
+.intro-banner--title:after, .intro-banner--title:before {
+    bottom: 17px;
+    margin-right: 23px;
+    width: 64px;
+}
+.intro-banner--title:after, .intro-banner--title:before {
+    display: inline-block;
+    position: relative;
+    bottom: 10px;
+    margin-right: 8px;
+    background-color: #333;
+    width: 28px;
+    height: 1px;
+    content: "";
+}
+*, :after, :before {
+    box-sizing: border-box;
+}
+.intro-banner--title:after, .intro-banner--title:before {
+    width: 75px;
+}
+.intro-banner--title:after {
+    margin-left: 23px;
+}
+.intro-banner--title:after, .intro-banner--title:before {
+    bottom: 17px;
+    margin-right: 23px;
+    width: 64px;
+}
+.intro-banner--title:after {
+    margin: 0 0 0 8px;
+}
+.intro-banner--title:after, .intro-banner--title:before {
+    display: inline-block;
+    position: relative;
+    bottom: 10px;
+    margin-right: 8px;
+    background-color: #333;
+    width: 28px;
+    height: 1px;
+    content: "";
+}
+.intro-banner--date {
+    text-transform: uppercase;
+    line-height: normal;
+    letter-spacing: .2em;
+    color: #999;
+    font-family: FranklinGothic,Helvetica,sans-serif;
+    font-size: 8px;
+}
+.intro-banner--date {
+    font-size: 14px;
+}
